@@ -1,0 +1,2 @@
+D:\Unity Projeler\Udemy RPG\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Unity Projeler\Udemy RPG\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
