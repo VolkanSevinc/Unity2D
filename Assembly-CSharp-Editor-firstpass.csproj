@@ -335,23 +335,23 @@
  <Reference Include="UnityEditor.WindowsStandalone.Extensions">
  <HintPath>F:/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="nunit.framework">
- <HintPath>D:/Unity Projeler/Udemy RPG/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
- </Reference>
  <Reference Include="GitHub.Api.45">
  <HintPath>D:/Unity Projeler/Udemy RPG/Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll</HintPath>
+ </Reference>
+ <Reference Include="GitHub.Logging">
+ <HintPath>D:/Unity Projeler/Udemy RPG/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
  </Reference>
  <Reference Include="GitHub.Unity.45">
  <HintPath>D:/Unity Projeler/Udemy RPG/Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll</HintPath>
  </Reference>
- <Reference Include="sfw.net">
- <HintPath>D:/Unity Projeler/Udemy RPG/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
- </Reference>
  <Reference Include="GitHub.UnityShim">
  <HintPath>D:/Unity Projeler/Udemy RPG/Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll</HintPath>
  </Reference>
- <Reference Include="GitHub.Logging">
- <HintPath>D:/Unity Projeler/Udemy RPG/Assets/Plugins/GitHub/Editor/GitHub.Logging.dll</HintPath>
+ <Reference Include="sfw.net">
+ <HintPath>D:/Unity Projeler/Udemy RPG/Assets/Plugins/GitHub/Editor/sfw.net.dll</HintPath>
+ </Reference>
+ <Reference Include="nunit.framework">
+ <HintPath>D:/Unity Projeler/Udemy RPG/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>F:/Unity/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>

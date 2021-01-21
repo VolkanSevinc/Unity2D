@@ -65,10 +65,11 @@
      <Compile Include="Assets\Scripts\DialogActivator.cs" />
      <Compile Include="Assets\Scripts\DialogManager.cs" />
      <Compile Include="Assets\Scripts\EssentialsLoader.cs" />
+     <Compile Include="Assets\Scripts\FoxScript.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\PlayerLoader.cs" />
      <Compile Include="Assets\Scripts\UIFade.cs" />
-     <None Include="Assets\Udemy RPG Assets\Licence.txt" />
+     <None Include="Assets\RPG Assets\Licence.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Unity Projeler/Udemy RPG/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
